@@ -1114,11 +1114,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Edmilson\\source\\repos\\Games_Func\\Games_Func.Domain\\Games_Func.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Edmilson\\source\\repos\\edmilsonhora\\AzureFunc_Games\\Games_Func.Domain\\Games_Func.Domain.csproj",
       "projectName": "Games_Func.Domain",
-      "projectPath": "C:\\Users\\Edmilson\\source\\repos\\Games_Func\\Games_Func.Domain\\Games_Func.Domain.csproj",
+      "projectPath": "C:\\Users\\Edmilson\\source\\repos\\edmilsonhora\\AzureFunc_Games\\Games_Func.Domain\\Games_Func.Domain.csproj",
       "packagesPath": "C:\\Users\\Edmilson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Edmilson\\source\\repos\\Games_Func\\Games_Func.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Edmilson\\source\\repos\\edmilsonhora\\AzureFunc_Games\\Games_Func.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Edmilson\\AppData\\Roaming\\NuGet\\NuGet.Config",

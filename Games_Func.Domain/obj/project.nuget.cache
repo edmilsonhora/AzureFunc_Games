@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VaTNZglh9XVvdN3s/wmQiRTkxnLsCdoRYILSg9bRMk7kCP8crC3BKCDDkwjx6li7OMtyKFFQ0Uh8KPxPU0NhuQ==",
+  "dgSpecHash": "/LLhew5v15UzNC6MYJD+pqQx4M9yl74R/UDxySvHqaSFfm4ckDzUvcekVXHNwJKc3RzVtK5NyBaKJ+NzvNAAQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Edmilson\\source\\repos\\Games_Func\\Games_Func.Domain\\Games_Func.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Edmilson\\source\\repos\\edmilsonhora\\AzureFunc_Games\\Games_Func.Domain\\Games_Func.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Edmilson\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Edmilson\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
